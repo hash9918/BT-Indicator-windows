@@ -1,0 +1,5 @@
+bleak>=0.22.3
+Pillow>=10.3.0
+pystray>=0.19.5
+win10toast>=0.9
+pywin32>=306
